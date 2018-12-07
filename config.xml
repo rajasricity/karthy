@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.karthy.retailers" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Karthy</name>
+    <name>eInstapay</name>
     <description>
-        Karthy Payments Bank
+        eInstapay Digital Payments
     </description>
     <author email="sanarajasekhar@gmail.com" href="https://retailers.karthyrechnologies.com">
-        Karthy Payments Bank
+        eInstapay
     </author>
     <preference name="OverrideUserAgent" value="Mozilla/5.0 My Browser" />
     <preference name="orientation" value="portrait"/>
